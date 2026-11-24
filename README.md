@@ -17,7 +17,7 @@ Partitions of primes that are 1 mod 3
 | Type4_SignaturesDB.txt | Signature database of vectors $(\epsilon_1, \epsilon_2, \epsilon_3, \epsilon_4, \epsilon_5, \epsilon_6, \epsilon_7)$ over {-1, 0, 1} for Type 4. |
 | Step1_Output.txt | Full output of the Step 1 calculation from the paper. |
 | Step2_Output.txt | Full output of the Step 2 calculation from the paper. |
-| Step3_Output.txt | Full output of the Step 3 calculation from the paper. |
+| Step3_Output.txt.gz | Full output of the Step 3 calculation from the paper (large file: 254MB uncompressed). |
 
 Michael Mossinghoff (m.mossinghoff@ccr-princeton.org)<br>
 Chris Pinner (pinner@math.ksu.edu)<br>
