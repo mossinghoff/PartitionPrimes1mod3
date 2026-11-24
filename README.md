@@ -1,9 +1,9 @@
 # PartitionPrimes1mod3
 Partitions of primes that are 1 mod 3
 
-<p>This site contains a number of files connected to the study of integer group determinants, especially for the abelian groups of order 27. See <i>The integer group determinants for the Abelian  groups of order 27</i>i>, by Michael J. Mossinghoff and Chris Pinner, on the arXiv. It includes a list of primes 1 mod 3 up to 50000 partitioned into two types, as described in the article, and a further subdivision of the Type 2 primes that are 1 mod 9 into two types, called Type 3 and Tyupe 4. It also includes the corresponding databases of signatures for particular algebraic integers, as well as the full record of the computations that completed the proof of the main theorem of that paper.</p>
+<p>This site contains a number of files connected to the study of integer group determinants, especially for the abelian groups of order 27. See <i>The integer group determinants for the Abelian  groups of order 27</i>, by Michael J. Mossinghoff and Chris Pinner, on the arXiv. It includes a list of primes 1 mod 3 up to 50000 partitioned into two types, as described in the article, and a further subdivision of the Type 2 primes that are 1 mod 9 into two types, called Type 3 and Tyupe 4. It also includes the corresponding databases of signatures for particular algebraic integers, as well as the full record of the computations that completed the proof of the main theorem of that paper.</p>
 
-<p>A brief synopsis of each file appears here.</p>p>
+<p>A brief synopsis of each file appears here.</p>
 
 | File | Description |
 | :---- | :---- |
