@@ -7,10 +7,10 @@ Partitions of primes that are 1 mod 3
 
 | File | Description |
 | :---- | :---- |
-| Type1_50k.txt | List of all Type 1 primes 1 mod 3 up to 50000. |
-| Type2_50k.txt | List of all Type 2 primes 1 mod 3 up to 50000. |
-| Type3_50k.txt | List of all Type 3 primes 1 mod 9 up to 50000. |
-| Type4_50k.txt | List of all Type 4 primes 1 mod 9 up to 50000. |
+| Type1_50k.txt | List of all Type 1 primes 1 mod 3 less than 50000. |
+| Type2_50k.txt | List of all Type 2 primes 1 mod 3 less than 50000. |
+| Type3_50k.txt | List of all Type 3 primes 1 mod 9 less than 50000. |
+| Type4_50k.txt | List of all Type 4 primes 1 mod 9 less than 50000. |
 | Type1_SignaturesDB.txt | Signature database of vectors $(\epsilon_1, \epsilon_2, \epsilon_3, \epsilon_4, \epsilon_5)$ over {-1, 0, 1} for Type 1. |
 | Type2_SignaturesDB.txt | Signature database of vectors $(\epsilon_1, \epsilon_2, \epsilon_3, \epsilon_4, \epsilon_5)$ over {-1, 0, 1} for Type 2. |
 | Type3_SignaturesDB.txt | Signature database of vectors $(\epsilon_1, \epsilon_2, \epsilon_3, \epsilon_4, \epsilon_5, \epsilon_6, \epsilon_7)$ over {-1, 0, 1} for Type 3. |
